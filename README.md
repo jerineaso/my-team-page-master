@@ -35,7 +35,7 @@
 
 ## Overview
 
-![alt text]()
+![Screenshot](https://github.com/jerineaso/my-team-page-master/blob/main/screenshot/screenshot.png)
 
 
 ### Built With
@@ -54,6 +54,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com](https://jerineaso.github.io/portfolio/)
+- GitHub [@your-username](https://github.com/jerineaso)
