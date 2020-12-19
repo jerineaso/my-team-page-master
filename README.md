@@ -54,5 +54,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://jerineaso.github.io/portfolio/)
-- GitHub [@your-username](https://github.com/jerineaso)
+- Website [Portfolio](https://jerineaso.github.io/portfolio/)
+- GitHub [Jerin Easo Regi](https://github.com/jerineaso)
