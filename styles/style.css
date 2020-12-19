@@ -48,7 +48,7 @@ nav{
 /* Main Section */
 
 main{
-    padding: 0 30px;
+    padding:0 30px;
     max-width: 70%;
     margin:0 auto;
 }
@@ -97,6 +97,16 @@ main .container{
 .img-card:nth-child(2),
 .img-card:nth-child(5){
     margin-top: 200px;
+}
+
+/* Footer  */
+
+footer p{
+    color: #A9A9A9;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Montserrat;
 }
 
 @media only screen and (max-width: 827px){
