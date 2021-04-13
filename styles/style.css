@@ -137,3 +137,8 @@ footer p{
     }
 
 }
+@media only screen and (max-width:579px){
+    .img-card:nth-child(2), .img-card:nth-child(5) {
+        margin-top: 60px;
+    }
+}
